@@ -1,8 +1,8 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import heroBg from '../../assets/heroBg.png';
-import heroBot from '../../assets/HeroBot.png';
-import mobileBg from '../../assets/mobileHeroBg.png';
+import React from "react";
+import { motion } from "framer-motion";
+import heroBg from "../../assets/heroBg.png";
+import heroBot from "../../assets/heroBot.png";
+import mobileBg from "../../assets/mobileHeroBg.png";
 
 const ScriptaHeroSection = () => {
   // Animation variants
