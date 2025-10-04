@@ -1,7 +1,7 @@
 import React from "react";
 import image1 from "../../assets/Sales-Manager/Section1.png";
-import image2 from "../../assets/Sales-Manager/Section3.png";
-import image3 from "../../assets/Sales-Manager/Section2.png";
+import image2 from "../../assets/Sales-Manager/section3.png";
+import image3 from "../../assets/Sales-Manager/section2.png";
 
 const DealuxoSection = () => {
   return (
